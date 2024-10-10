@@ -1,0 +1,6 @@
+node_modules/
+config/dev.js
+.env
+apiTest.http
+apiPatient.http
+package-lock.json
